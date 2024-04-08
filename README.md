@@ -1,4 +1,4 @@
 # GoogleHomePractice
 Practice creating a repository in Github and pushing our code
 
-#Built with HTML & CSS
+# Built with HTML & CSS & JS
